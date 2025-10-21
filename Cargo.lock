@@ -3,7 +3,7 @@
 version = 4
 
 [[package]]
-name = "fast_ata"
+name = "fast_ata_pinocchio"
 version = "0.1.0"
 dependencies = [
  "pinocchio",
